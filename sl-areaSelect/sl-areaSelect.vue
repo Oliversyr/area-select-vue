@@ -519,6 +519,8 @@
 
                 .singleArea {
                     cursor: pointer;
+                    line-height: 36px;
+                    font-size: 14px;
                 }
 
                 .active {
